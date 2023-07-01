@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="850" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*XMtgZnxbVu5nO6fdbpWy2w.jpeg">
+    <img width="600" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*XMtgZnxbVu5nO6fdbpWy2w.jpeg">
 </p>
 <h1 align="center">Hi 👋, I'm Jayesh Soni</h1>
 <h3 align="center">A Technology enthusiast from India</h3>
